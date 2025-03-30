@@ -1,0 +1,4 @@
+ibm_cloud_sdk_core==3.22.1
+pandas==2.2.3
+Requests==2.32.3
+streamlit==1.44.0
